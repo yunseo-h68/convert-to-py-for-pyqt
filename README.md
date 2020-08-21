@@ -1,4 +1,4 @@
-# convert_to_py.py for Pyqt
+# convert_to_py for Pyqt
 
 Pyqt에서 Qt designer를 사용하면 생성되는 .qrc 파일들 및 .ui 파일들을 .py로 변환하는 파이썬 프로그램입니다.
 
@@ -25,6 +25,6 @@ Converted: designer/test.ui -> package/ui/test_ui.py
 
 ## License
 
-`convert_to_py.py for Pyqt` for is primarily distributed under the terms of MIT license.
+`convert_to_py for Pyqt` for is primarily distributed under the terms of MIT license.
 
 See [LICENSE](./LICENSE) for details.
